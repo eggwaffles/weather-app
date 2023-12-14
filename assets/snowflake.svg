@@ -1,0 +1,16 @@
+<svg width="90" height="90" viewBox="0 0 90 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle opacity="0.23" cx="45" cy="45" r="31.5" fill="white" fill-opacity="0.49"/>
+<circle opacity="0.28" cx="45.4501" cy="44.55" r="23.85" fill="white" fill-opacity="0.3"/>
+<line x1="45.3" y1="3" x2="45.3" y2="87" stroke="white" stroke-width="6" stroke-linecap="round"/>
+<line x1="13.5" y1="72.897" x2="72.897" y2="13.5" stroke="white" stroke-width="6" stroke-linecap="round"/>
+<line x1="16.8427" y1="13.5" x2="76.2397" y2="72.897" stroke="white" stroke-width="6" stroke-linecap="round"/>
+<line x1="44.4866" y1="17.8338" x2="57.8204" y2="4.5" stroke="white" stroke-width="6" stroke-linecap="round"/>
+<line x1="31.2426" y1="4.58875" x2="44.399" y2="17.7451" stroke="white" stroke-width="6" stroke-linecap="round"/>
+<line x1="44.6133" y1="71.7426" x2="31.2794" y2="85.0765" stroke="white" stroke-width="6" stroke-linecap="round"/>
+<line x1="57.8575" y1="84.9877" x2="44.7011" y2="71.8314" stroke="white" stroke-width="6" stroke-linecap="round"/>
+<line x1="3" y1="42" x2="87" y2="42" stroke="white" stroke-width="6" stroke-linecap="round"/>
+<line x1="17.8338" y1="42.7765" x2="4.49994" y2="29.4427" stroke="white" stroke-width="6" stroke-linecap="round"/>
+<line x1="4.58887" y1="56.0206" x2="17.7452" y2="42.8643" stroke="white" stroke-width="6" stroke-linecap="round"/>
+<line x1="71.7426" y1="42.6868" x2="85.0765" y2="56.0206" stroke="white" stroke-width="6" stroke-linecap="round"/>
+<line x1="84.9875" y1="29.4427" x2="71.8312" y2="42.599" stroke="white" stroke-width="6" stroke-linecap="round"/>
+</svg>
